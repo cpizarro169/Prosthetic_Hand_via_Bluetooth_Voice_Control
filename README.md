@@ -1,4 +1,4 @@
-# Prosthetic_Hand_via_Bluetooth_Voice_Control
+# Prosthetic_Hand_via_Bluetooth_or_Voice_Control
 
     Control servo motors with either a PS4 remote via bluetooth or by voice commands.
     These motors are connected to a 3D printed prosthetic hand and controls changes its postion/gesture.
