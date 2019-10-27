@@ -7,9 +7,9 @@
     in sepearte groups. After analyzing the default code, many variables and cases were removed.
     Parts that remained in the code have been marked and have not been touced since it is
     used as part of running the easyVR module.
-    The rest of the code is created by Christian Pizarro and Jose Aquino.
+    The rest of the code is created by Christian Pizarro.
 
     Can be used on Arduino Uno or Arduino Mega 2560.
     
     Modified 14 May 2017
-    by Christian Pizarro and Jose Aquino
+    by Christian Pizarro
